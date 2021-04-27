@@ -38,3 +38,9 @@
 <!-- wp:shortcode -->
 <pre class="dap_code">&lt;script src="https://cdn.jsdelivr.net/gh/taglioplugins/taglioBot@latest/v1.0.0/taglioBotFree.min.js"&gt;&lt;/script&gt;</pre>
 <!-- /wp:shortcode -->
+
+<!-- wp:heading {"className":"#download"} -->
+<h2 class="#download">Installation</h2>
+<!-- /wp:heading -->
+
+<a href="https://codepen.io/taglioplugins/pen/QWdgVwX" target="_blank"></a>
