@@ -36,5 +36,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[dm_code_snippet background="no" background-mobile="no" slim="yes" bg-color="#abb8c3" theme="dark" language="php" wrapped="no" copy-text="Copy code" copy-confirmed="You have it!"]<pre class="dap_code">&lt;script src="https://cdn.jsdelivr.net/gh/taglioplugins/taglioBot@latest/v1.0.0/taglioBotFree.min.js"&gt;&lt;/script&gt;</pre>[/dm_code_snippet]
+<pre class="dap_code">&lt;script src="https://cdn.jsdelivr.net/gh/taglioplugins/taglioBot@latest/v1.0.0/taglioBotFree.min.js"&gt;&lt;/script&gt;</pre>
 <!-- /wp:shortcode -->
