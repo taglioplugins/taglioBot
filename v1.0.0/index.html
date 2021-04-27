@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Taglio chatbot get started</title>
+</head>
+
+<body>
+
+  
+  <h2>Taglio chatbot get started</h2>
+  <p>This is an example</p>
+  <script src="https://cdn.jsdelivr.net/gh/taglioplugins/taglioBot@latest/v1.0.0/taglioBotFree.min.js"></script>
+  <script>
+    let conversation = [
+      {
+        type: 'text',
+        text: 'Hey there &#128513;!',
+      },
+      {
+        type: 'input',
+        variable: 'name',
+        text: 'What is your name?',
+      },
+      {
+        type: 'text',
+        text: 'Welcome <var>name</var>!',
+      },
+    ];
+    
+  let options = {
+    conversation: conversation,
+    initialMessage : '&#128513; Hey, need help?'
+  };
+  window.taglio_chat_app.start(options);
+
+
+  </script>
+</body>
+
+</html>
