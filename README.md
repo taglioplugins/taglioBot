@@ -43,4 +43,4 @@
 <h2 class="#download">Example</h2>
 <!-- /wp:heading -->
 
-#https://codepen.io/taglioplugins/pen/QWdgVwX
+<a href="https://codepen.io/taglioplugins/pen/QWdgVwX" target="_blank">https://codepen.io/taglioplugins/pen/QWdgVwX</a>
