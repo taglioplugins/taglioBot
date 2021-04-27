@@ -1,4 +1,4 @@
-# taglioBot
+
 <!-- wp:heading -->
 <h2>Getting started</h2>
 <!-- /wp:heading -->
